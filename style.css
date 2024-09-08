@@ -269,6 +269,7 @@ span{
 }
 
 .floating-image {
+    z-index: 10;
     position: absolute;
     width: 150px; /* Ukuran gambar */
     height: 150px;
